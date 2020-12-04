@@ -55,8 +55,8 @@ export default class Player extends Phaser.Physics.Matter.Sprite {
         } else {
             this.anims.play('knight_idle',true);    
         } 
-        if(this.inputKeys.strongAttack.isDown) {
-            
+        if(this.inputKeys.strongAttack.isDown) {  // This is the attack function that would trigger the animation.
+            this.anims.play.('strongAttack',false) // false means that it won't loop and should only play through animation once.
         }
     }
 }
