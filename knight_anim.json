@@ -1,0 +1,212 @@
+{
+    "anims": [
+        {
+            "key": "knight_run",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_0"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_1"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_2"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_3"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_4"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_5"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_6"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_7"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_8"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_run_9"
+                }
+            ]
+        },
+        {
+            "key": "knight_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_0"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_1"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_2"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_3"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_4"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_5"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_6"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_idle_7"
+                }
+            ]
+        },
+        {
+            "key": "knight_block",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "knight",
+                    "frame": "heroknight_block_0"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_block_1"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_block_2"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_block_3"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_block_4"
+                }
+            ]
+        },
+        {
+            "key": "jump",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "knight",
+                    "frame": "heroknight_jump_0"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_jump_1"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_jump_2"
+                }
+            ]
+        },
+        {
+            "key": "strongAttack",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_0"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_1"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_2"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_3"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_4"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_5"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_6"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack3_7"
+                }
+            ]
+        },
+        {
+            "key": "attack1",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack1_0"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack1_1"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack1_2"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack1_3"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack1_4"
+                },
+                {
+                    "key": "knight",
+                    "frame": "heroknight_attack1_5"
+                }
+            ]
+        }
+    ]
+}

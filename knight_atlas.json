@@ -1,0 +1,528 @@
+{
+    "frames": [
+        {
+            "filename": "heroknight_attack1_0",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack1_1",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack1_2",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack1_3",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack1_4",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 110
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack1_5",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 110
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_0",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 165
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_1",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 165
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_2",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_3",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_4",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 110
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_5",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 165
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_6",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_attack3_7",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_jump_0",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_jump_1",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 275
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_jump_2",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 275
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_block_0",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 275
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_block_1",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_block_2",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_block_3",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 110
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_block_4",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 165
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_0",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_1",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 275
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_2",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 330
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_3",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 330
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_4",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 330
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_5",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 330
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_6",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 0,
+                "y": 385
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_idle_7",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 100,
+                "y": 385
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_0",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 200,
+                "y": 385
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_1",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 300,
+                "y": 385
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_2",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_3",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 55
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_4",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 110
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_5",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 165
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_6",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_7",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 275
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_8",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 330
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heroknight_run_9",
+            "frame": {
+                "w": 100,
+                "h": 55,
+                "x": 400,
+                "y": 385
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
